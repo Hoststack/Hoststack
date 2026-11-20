@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🚀 Welcome to HostStack
 
-<!--
-**Hoststack/Hoststack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Infrastructure Built for Performance.
 
-Here are some ideas to get you started:
+Welcome to the official GitHub profile of **HostStack**, an infrastructure and hosting provider based in India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We provide reliable, high-performance hosting solutions for developers, businesses, and gaming communities.
+
+## 🌐 Our Services
+
+- ⚡ High-Performance VPS Hosting
+- 🖥️ Dedicated Server Hosting
+- 🎮 Game Server Hosting
+- 🛡️ DDoS-Protected Infrastructure
+- ☁️ Cloud & Virtualization Solutions
+
+## 💻 Our Technology
+
+- Proxmox VE & KVM
+- Linux & Windows Server
+- Docker & Virtualization
+- Pterodactyl
+- Laravel & PHP
+- Networking & Infrastructure Automation
+
+## 🎯 Our Mission
+
+To make reliable infrastructure accessible to everyone through performance-focused hosting, innovative technology, and excellent customer support.
+
+## 🔗 Connect With Us
+
+🌍 **Website:** https://www.hoststack.in
+
+💻 **GitHub:** https://github.com/Hoststack
+
+---
+
+**HostStack — Powering Your Digital Infrastructure.**
